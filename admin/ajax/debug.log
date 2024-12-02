@@ -1,0 +1,32 @@
+{
+    "name": "qqq",
+    "area": "1",
+    "price": "11",
+    "quantity": "1",
+    "adult": "1",
+    "children": "1",
+    "features": [
+        "3"
+    ],
+    "facilities": [
+        "3"
+    ],
+    "desc": "sdsd",
+    "add_room": ""
+}{
+    "name": "Thea",
+    "area": "113",
+    "price": "1000",
+    "quantity": "1",
+    "adult": "1",
+    "children": "0",
+    "features": [
+        "3"
+    ],
+    "facilities": [
+        "3",
+        "6"
+    ],
+    "desc": "hello",
+    "add_room": ""
+}
